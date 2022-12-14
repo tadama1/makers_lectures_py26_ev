@@ -1,0 +1,26 @@
+ctrl+alt+t = open terminal
+ls  put_do_director - 
+ls -a = prosmotr skrutuh filov directs
+ls -l = prosmotr istorii faila
+mkdir = sozdanie directori
+cd imia directori pu_do_direct = smena director
+pwd - vuvod obsalytnogog puti v terminal
+absolytnui put = put, kotorui nachinaetsia s kornevoi directori (/home/username/...)
+otnositelnui put = put, otnositelno drygih director(../some_dir)
+nano put_do_file= otkrutie file s pomoshi tekstovogo redaktora nano. esli faila ne syshestvyet - sozdaet ego
+
+mv pyt_do_faila i pyt_do_director = pernos director ili faila v ykazannyu director
+mv pyt_do_faila novoe_nazvanie+ = pereimenovanie faila/director
+echo kakoito_text = vuvod ykazannogo texta v konsol
+echo some_text > new_file = zapis/perezapis texsta v faile
+echo appended_text >> same_file = dozapis texta v faile
+
+rm =  ydalenie faila
+rmdir = ydalenie directori 
+rm -r = rekursivno (ydalit soderjimyu directori i ee samy)
+rm -f = prinyditelnoe ydalenie
+rm -rf = prinuditelno + rekyrsivno
+ 
+ctrl + x = exit
+y = soglasitsia s izmeneniiami 
+enter = podverdit
